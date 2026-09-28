@@ -1,0 +1,4 @@
+# 项目一 · 阶段② 数据采集 —— Python 依赖清单
+# 安装命令：pip install -r requirements.txt
+akshare>=1.12.0     # 免费金融数据接口（A股日线、LPR 等），数据源：东财/新浪
+pymysql>=1.1.0      # Python 连接 MySQL 的驱动

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 本地敏感/临时文件
+*.docx
+*.doc
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 数据库/密钥（保险起见全部忽略，密码绝不上传）
+*.pem
+*.key
+.env
